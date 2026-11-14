@@ -1,0 +1,240 @@
+(footprint "SAMTEC_TSM-102-02-L-SH"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 8 0)
+		(layer "F.SilkS")
+		(uuid "bdf9f37d-f4a7-4095-bac5-64a9ead5a061")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SAMTEC_TSM-102-02-L-SH"
+		(at 10.43 8.735 0)
+		(layer "F.Fab")
+		(uuid "d0d184f2-b185-43f7-96ea-1d4c02d43d48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ffba2409-8101-4fb8-840e-2a45e86adf60")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5fb515eb-e7c8-4709-b03d-1a23fd0ffa80")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89cf1797-c78e-420c-aea6-d8cdf55adf37")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.54 1.27)
+		(end -2.54 -1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff3d3eaf-f459-4569-89ce-8558e9e2d293")
+	)
+	(fp_line
+		(start 2.54 -1.27)
+		(end -2.54 -1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24f545bb-f06d-4581-9c40-76122c8d2f5a")
+	)
+	(fp_line
+		(start 2.54 -1.27)
+		(end 2.54 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3e13bff-0182-4850-830f-084c6b0ee413")
+	)
+	(fp_line
+		(start 2.54 1.27)
+		(end -2.54 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b991a5c7-7f32-4e83-980c-b256a6f2d8a3")
+	)
+	(fp_line
+		(start -2.79 -9.65)
+		(end 2.79 -9.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c8254854-a1cd-45c0-86c8-865602be71af")
+	)
+	(fp_line
+		(start -2.79 7.12)
+		(end -2.79 -9.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ea910679-9f1a-43e1-b530-c0a39e83782d")
+	)
+	(fp_line
+		(start 2.79 -9.65)
+		(end 2.79 7.12)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "80ab8a93-14d3-4115-88ec-8be99fb8ade9")
+	)
+	(fp_line
+		(start 2.79 7.12)
+		(end -2.79 7.12)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1f3d0c4f-5261-426e-92d8-8ec98753b236")
+	)
+	(fp_line
+		(start -2.54 -9.4)
+		(end 2.54 -9.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d934e10f-3230-40c9-874f-87fae4077cf4")
+	)
+	(fp_line
+		(start -2.54 -1.27)
+		(end 2.54 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ab8ed4d3-1138-40cc-98f6-15a9898ab2d8")
+	)
+	(fp_line
+		(start -2.54 1.27)
+		(end -2.54 -9.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "25f12ac5-d1ea-4d56-a733-35ffbf079740")
+	)
+	(fp_line
+		(start -2.54 1.27)
+		(end -2.54 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "379b9924-26a5-41a0-95c3-0e5a10fc59e3")
+	)
+	(fp_line
+		(start 2.54 -9.4)
+		(end 2.54 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "87496272-4960-4451-8fd6-ee779f26b93b")
+	)
+	(fp_line
+		(start 2.54 -1.27)
+		(end 2.54 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4cc5138a-6717-446b-99b4-4adea8713ff8")
+	)
+	(fp_line
+		(start 2.54 1.27)
+		(end -2.54 1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d9005919-7426-4771-be05-9b086d8f1cfd")
+	)
+	(pad "01" smd rect
+		(at -1.27 5.28)
+		(size 1.27 3.18)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "2185b7a6-bd99-4c85-a828-8d056266f5e2")
+	)
+	(pad "02" smd rect
+		(at 1.27 5.28)
+		(size 1.27 3.18)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "410b16e0-3487-4b5e-8a9b-44c53a656bd9")
+	)
+	(model "${KIPRJMOD}/STEP/TSM-102-02-L-SH.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
+	)
+)
