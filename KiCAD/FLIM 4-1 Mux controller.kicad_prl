@@ -61,12 +61,34 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "FLIM 4-1 Mux board.kicad_prl",
+    "filename": "FLIM 4-1 Mux controller.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
-    "col_hidden": [],
-    "col_order": [],
+    "col_hidden": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "col_order": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "col_widths": [],
     "custom_group_rules": [],
     "expanded_rows": [],
