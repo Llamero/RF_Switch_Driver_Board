@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 3.2004,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -76,7 +76,48 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "missing_courtyard|51110000|47350000|569021a3-2e68-4e8f-a818-1ead5ba64db0|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "missing_courtyard|55530000|81473951|36649f93-978b-4452-a150-9512c5263271|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "missing_courtyard|60000000|48610000|5fa39662-e32c-48ff-80cd-cbd8a9e3ba5e|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|22802300|0|5dd85d9e-fe46-4386-a699-f8335465e630|c97fb41b-d880-411f-b9fc-306defae7b58",
+          ""
+        ],
+        [
+          "silk_edge_clearance|30054000|0|5dd85d9e-fe46-4386-a699-f8335465e630|a8608ff1-3fce-4cef-a247-e85b415178da",
+          ""
+        ],
+        [
+          "silk_edge_clearance|54946000|0|5dd85d9e-fe46-4386-a699-f8335465e630|591000e3-3244-449b-b3bf-dae4c8bfd56d",
+          ""
+        ],
+        [
+          "silk_edge_clearance|62197700|-68200|5dd85d9e-fe46-4386-a699-f8335465e630|4a413e13-9191-4323-8742-c62346266656",
+          ""
+        ],
+        [
+          "silk_edge_clearance|62197700|0|5dd85d9e-fe46-4386-a699-f8335465e630|ccd0c188-230e-422d-b463-03b807fbd6ad",
+          ""
+        ],
+        [
+          "silk_edge_clearance|62724800|85000000|33a33091-7554-4fd6-8f05-165c72b7b9b2|044a08ab-4f33-4255-970f-6054e7f24628",
+          ""
+        ],
+        [
+          "silk_edge_clearance|72275200|85000000|33a33091-7554-4fd6-8f05-165c72b7b9b2|b59d3fde-9f35-4bad-8b48-df64c6d414c2",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -552,7 +593,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "STEP/FLIM 4-1 Mux controller.step",
       "svg": "",
       "vrml": ""
     },
@@ -701,7 +742,7 @@
         "uuid": "9a5ec920-9f12-407d-b06b-b123ad2c0d9b"
       }
     ],
-    "used_designators": "#PWR1-41,#PWR60-86,C1-6,C8-21,C25-36,D2-4,F1,FB1,FL1,J1-13,J18-19,JP1,N1,Q1-2,R1-8,R13-20,RN1-4,SW1-4,SYM1-3,U1-7",
+    "used_designators": "#PWR1-41,#PWR60-86,C1-6,C8-21,C25-36,D2-4,F1,FB1,FL1,J1-15,J18-19,JP1-2,N1,Q1-2,R1-8,R13-20,RN1-4,SW1-4,SYM1-3,U1-7",
     "variants": []
   },
   "sheets": [
